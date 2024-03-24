@@ -114,3 +114,15 @@ git branch -D "NOME_DA_BRANCH"
 
 git merge 
 
+# Enviar arquivo
+
+git push
+
+# Baixar arquivo
+
+git pull 
+
+# Subir uma nova Branch ao GitHub
+
+git push origin "Nome_Da_Branch"
+
