@@ -110,4 +110,7 @@ git chekout master
 
 git branch -D "NOME_DA_BRANCH"
 
+# Merge
+
+git merge 
 
