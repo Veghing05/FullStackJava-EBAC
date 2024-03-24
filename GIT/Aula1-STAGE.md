@@ -81,3 +81,33 @@ git log --oneline
 git log --stat
 
 - Variações na visualização de commits 
+
+# Desfazer alterações 
+
+git checkout "NOME DO ARQUIVO".
+
+# Navegar entre commits
+
+git checkout "commit_ID"
+ 
+git revert HEAD "commit_ID"
+
+# Listar entre as Branchs
+
+git branch
+
+# Criar uma Branch
+
+git branch "NomeDaBranch-a"
+
+# Navegar entre as branchs 
+
+git checkout nome_branch
+
+git chekout master  
+
+# Deletar Branch
+
+git branch -D "NOME_DA_BRANCH"
+
+
