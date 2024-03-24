@@ -1,0 +1,47 @@
+HTML (HyperText Markup Language)
+HTML é a base de qualquer página web. Ele usa “tags” para estruturar o conteúdo, permitindo adicionar textos, imagens, vídeos e outros elementos interativos. O HTML é crucial para a acessibilidade e SEO (Search Engine Optimization), pois os motores de busca utilizam a estrutura do HTML para entender o conteúdo de uma página.
+
+Exemplo de Estrutura HTML Básica:
+HTML
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Seu Título Aqui</title>
+</head>
+<body>
+    <h1>Olá, Mundo!</h1>
+    <p>Este é um exemplo básico de HTML.</p>
+</body>
+</html>
+
+CSS (Cascading Style Sheets)
+CSS é usado para definir o estilo visual das páginas web. Ele controla o layout, as cores, as fontes e até mesmo animações. Com o CSS, você pode transformar o HTML básico em algo visualmente atraente e responsivo, que funciona bem em diferentes dispositivos e tamanhos de tela.
+
+Exemplo de CSS:
+CSS
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+}
+
+h1 {
+    color: green;
+}
+
+p {
+    color: blue;
+}
+
+JavaScript
+JavaScript é uma linguagem de programação que permite adicionar interatividade às páginas web. Com JavaScript, você pode criar conteúdo que responde a eventos do usuário, como cliques e movimentos do mouse, processar dados e se comunicar com servidores web, tudo em tempo real.
+
+Exemplo de JavaScript:
+JavaScript
+
+document.getElementById("demo").addEventListener("click", function() {
+    alert("Olá, Mundo!");
+});
+
+Essas três tecnologias trabalham juntas para criar páginas web dinâmicas e interativas. O HTML fornece a estrutura, o CSS adiciona estilo e o JavaScript traz funcionalidade.
