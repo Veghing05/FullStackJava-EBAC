@@ -98,7 +98,7 @@ git branch
 
 # Criar uma Branch
 
-git branch "NomeDaBranch-a"
+git branch "NomeDaBranch"
 
 # Navegar entre as branchs 
 
