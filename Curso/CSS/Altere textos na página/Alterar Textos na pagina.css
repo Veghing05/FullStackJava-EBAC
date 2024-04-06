@@ -1,0 +1,31 @@
+.articles article p,
+.articles article a {
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.articles article h3 {
+    font-size: 24;
+}
+
+section h2 {
+    font-size: 32px;
+
+}
+
+#sports {
+    background-color: rgba(0, 255, 0, 0.1);
+}
+
+#sports .articles article a {
+    background-color: #009432;
+}
+
+#economy {
+    background-color: yellow;
+}
+
+#economy .articles article a {
+    background-color: orange;
+}
+
