@@ -1,7 +1,7 @@
-function calcularArea() {
-    let base = 2;
-    let altura = 10;
+function calculaArea(base, altura) {
     return base * altura;
-}
+  }
 
-console.log(calcularArea());
+  let area = calculaArea(5, 10);
+  console.log(area); 
+  
