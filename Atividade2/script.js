@@ -1,6 +1,6 @@
 const formulario = document.getElementById('meuFormulario');
 formulario.addEventListener('submit', function(event) {
-    event.preventDefault(); // Evita o envio do formulário
+    event.preventDefault(); 
 
     const valorA = parseFloat(document.getElementById('campoA').value);
     const valorB = parseFloat(document.getElementById('campoB').value);
