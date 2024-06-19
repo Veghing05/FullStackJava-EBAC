@@ -1,0 +1,22 @@
+#meuFormulario {
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
+
+/* Estilos para os campos de entrada */
+input[type="number"] {
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+}
+
+/* Estilos para o botão */
+button {
+    background-color: #0074D9;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
