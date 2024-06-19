@@ -1,0 +1,20 @@
+/* regra de estilo ::=
+    lista de seletores  {
+      lista de propriedades
+    }
+
+    lista de seletores  : : =
+    seletor[ : pseudoclasse] [ :: pseudoelemento ]
+    [ , lista de seletores]
+
+lista de propriedades  : : =
+
+forte  { 
+    cor : vermelho ; 
+  }
+  
+  div.menu-bar li:hover > ul  { 
+    display : bloco ; 
+  }
+
+  https://devdocs.io/css/ *\
