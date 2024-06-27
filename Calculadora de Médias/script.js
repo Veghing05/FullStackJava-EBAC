@@ -56,5 +56,5 @@ function calculaMediaFinal() {
     for (let i = 0; i < notas.length; i++) {
         somadasNotas += notas[i];
     }
-    return somadasNotas / notas.length;.
+    return somadasNotas / notas.length;
 }
